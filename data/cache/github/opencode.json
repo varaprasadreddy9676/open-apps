@@ -3,7 +3,7 @@
   "slug": "opencode",
   "repoUrl": "https://github.com/anomalyco/opencode",
   "source": "api",
-  "lastSuccessAt": "2026-10-07T02:28:17.900Z",
+  "lastSuccessAt": "2026-10-10T15:23:24.165Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:16:32.753Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "anomalyco/opencode",
-      "stargazers_count": 212056,
-      "forks_count": 28234,
-      "open_issues_count": 6202,
+      "stargazers_count": 212504,
+      "forks_count": 28392,
+      "open_issues_count": 6153,
       "language": "TypeScript",
-      "pushed_at": "2026-10-07T02:13:20Z",
-      "updated_at": "2026-10-07T02:13:25Z",
+      "pushed_at": "2026-10-10T15:10:09Z",
+      "updated_at": "2026-10-10T15:19:05Z",
       "archived": false,
       "disabled": false,
       "default_branch": "dev",
@@ -43,7 +43,7 @@
     "latestReleaseAt": "2026-10-06T20:18:39Z",
     "homepage": "https://opencode.ai",
     "sync": {
-      "syncedAt": "2026-10-07T02:28:17.900Z",
+      "syncedAt": "2026-10-10T15:23:24.165Z",
       "source": "api"
     }
   },
@@ -164,7 +164,7 @@
         "facts": {
           "repository": "arch",
           "package": "opencode",
-          "version": "2.0.24",
+          "version": "2.0.26",
           "project": "opencode",
           "match": "project-name",
           "versionMatchesRelease": false
@@ -172,7 +172,7 @@
         "provenance": {
           "source": "repology",
           "url": "https://repology.org/project/opencode/versions",
-          "fetchedAt": "2026-10-07T02:28:15.190Z"
+          "fetchedAt": "2026-10-10T15:23:20.136Z"
         }
       },
       {
@@ -183,15 +183,15 @@
         "facts": {
           "repository": "nix_unstable",
           "package": "opencode",
-          "version": "1.18.34",
+          "version": "1.18.35",
           "project": "opencode",
           "match": "project-name",
-          "versionMatchesRelease": false
+          "versionMatchesRelease": true
         },
         "provenance": {
           "source": "repology",
           "url": "https://repology.org/project/opencode/versions",
-          "fetchedAt": "2026-10-07T02:28:15.190Z"
+          "fetchedAt": "2026-10-10T15:23:20.136Z"
         }
       },
       {
@@ -202,7 +202,7 @@
         "facts": {
           "repository": "homebrew",
           "package": "opencode",
-          "version": "2.0.20",
+          "version": "2.0.25",
           "project": "opencode",
           "match": "project-name",
           "versionMatchesRelease": false
@@ -210,7 +210,7 @@
         "provenance": {
           "source": "repology",
           "url": "https://repology.org/project/opencode/versions",
-          "fetchedAt": "2026-10-03T08:40:26.434Z"
+          "fetchedAt": "2026-10-10T15:23:20.136Z"
         }
       },
       {
@@ -254,22 +254,36 @@
     ],
     "logos": [
       {
-        "url": "https://github.com/anomalyco/opencode/blob/7f964bbb00e505178847e2c08721b0fff56208f9/packages/web/src/assets/logo-dark.svg",
-        "path": "packages/web/src/assets/logo-dark.svg",
-        "blobSha": "a1582732423a3f4b8e733d1e9fa0f373fd561f56",
+        "url": "https://github.com/anomalyco/opencode/blob/5caf1f9f6f5f30e13fc50a788ad953d97ae3748f/packages/console/app/src/asset/brand/opencode-logo-dark-square.svg",
+        "path": "packages/console/app/src/asset/brand/opencode-logo-dark-square.svg",
+        "blobSha": "6a67f62717b1b02d7213c0a685569c0f8c70668d",
         "format": "svg",
-        "bytes": 1077,
-        "width": 234,
-        "height": 42,
+        "bytes": 631,
+        "width": 300,
+        "height": 300,
         "provenance": {
           "source": "repo-asset",
-          "url": "https://github.com/anomalyco/opencode/blob/7f964bbb00e505178847e2c08721b0fff56208f9/packages/web/src/assets/logo-dark.svg",
-          "fetchedAt": "2026-09-28T18:16:27.512Z"
+          "url": "https://github.com/anomalyco/opencode/blob/5caf1f9f6f5f30e13fc50a788ad953d97ae3748f/packages/console/app/src/asset/brand/opencode-logo-dark-square.svg",
+          "fetchedAt": "2026-10-10T15:23:20.136Z"
         }
       },
       {
-        "url": "https://github.com/anomalyco/opencode/blob/7f964bbb00e505178847e2c08721b0fff56208f9/packages/web/src/assets/logo-light.svg",
-        "path": "packages/web/src/assets/logo-light.svg",
+        "url": "https://github.com/anomalyco/opencode/blob/5caf1f9f6f5f30e13fc50a788ad953d97ae3748f/packages/console/app/src/asset/brand/opencode-logo-dark.svg",
+        "path": "packages/console/app/src/asset/brand/opencode-logo-dark.svg",
+        "blobSha": "c28babff1be159160016884695e097d9159d468b",
+        "format": "svg",
+        "bytes": 593,
+        "width": 240,
+        "height": 300,
+        "provenance": {
+          "source": "repo-asset",
+          "url": "https://github.com/anomalyco/opencode/blob/5caf1f9f6f5f30e13fc50a788ad953d97ae3748f/packages/console/app/src/asset/brand/opencode-logo-dark.svg",
+          "fetchedAt": "2026-10-10T15:23:20.136Z"
+        }
+      },
+      {
+        "url": "https://github.com/anomalyco/opencode/blob/5caf1f9f6f5f30e13fc50a788ad953d97ae3748f/packages/console/app/src/asset/logo.svg",
+        "path": "packages/console/app/src/asset/logo.svg",
         "blobSha": "2a856dccefe81a7f95a97b0da28ee6e3386b9814",
         "format": "svg",
         "bytes": 1077,
@@ -277,8 +291,8 @@
         "height": 42,
         "provenance": {
           "source": "repo-asset",
-          "url": "https://github.com/anomalyco/opencode/blob/7f964bbb00e505178847e2c08721b0fff56208f9/packages/web/src/assets/logo-light.svg",
-          "fetchedAt": "2026-09-28T18:16:27.512Z"
+          "url": "https://github.com/anomalyco/opencode/blob/5caf1f9f6f5f30e13fc50a788ad953d97ae3748f/packages/console/app/src/asset/logo.svg",
+          "fetchedAt": "2026-10-10T15:23:20.136Z"
         }
       }
     ],

@@ -3,7 +3,7 @@
   "slug": "librechat",
   "repoUrl": "https://github.com/LibreChat-AI/LibreChat",
   "source": "api",
-  "lastSuccessAt": "2026-10-07T02:26:52.747Z",
+  "lastSuccessAt": "2026-10-10T15:21:50.992Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:15:09.027Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "LibreChat-AI/LibreChat",
-      "stargazers_count": 45346,
-      "forks_count": 9306,
-      "open_issues_count": 850,
+      "stargazers_count": 45482,
+      "forks_count": 9339,
+      "open_issues_count": 895,
       "language": "TypeScript",
-      "pushed_at": "2026-10-06T22:47:08Z",
-      "updated_at": "2026-10-07T02:18:32Z",
+      "pushed_at": "2026-10-10T15:17:10Z",
+      "updated_at": "2026-10-10T15:18:38Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -63,7 +63,7 @@
     },
     "homepage": "https://librechat.ai/",
     "sync": {
-      "syncedAt": "2026-10-07T02:26:52.747Z",
+      "syncedAt": "2026-10-10T15:21:50.992Z",
       "source": "api"
     }
   },
@@ -91,7 +91,7 @@
         "facts": {
           "repository": "aur",
           "package": "librechat",
-          "version": "0.8.7",
+          "version": "0.8.8",
           "project": "librechat",
           "match": "project-name",
           "versionMatchesRelease": false
@@ -99,7 +99,7 @@
         "provenance": {
           "source": "repology",
           "url": "https://repology.org/project/librechat/versions",
-          "fetchedAt": "2026-10-03T08:38:59.219Z"
+          "fetchedAt": "2026-10-10T15:21:48.681Z"
         }
       },
       {

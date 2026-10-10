@@ -3,7 +3,7 @@
   "slug": "teable",
   "repoUrl": "https://github.com/teableio/teable",
   "source": "api",
-  "lastSuccessAt": "2026-10-07T02:30:24.992Z",
+  "lastSuccessAt": "2026-10-10T15:25:44.879Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:18:40.289Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "teableio/teable",
-      "stargazers_count": 21862,
-      "forks_count": 1354,
+      "stargazers_count": 21878,
+      "forks_count": 1353,
       "open_issues_count": 143,
       "language": "TypeScript",
-      "pushed_at": "2026-10-06T15:20:57Z",
-      "updated_at": "2026-10-06T22:17:02Z",
+      "pushed_at": "2026-10-10T06:13:45Z",
+      "updated_at": "2026-10-10T15:17:31Z",
       "archived": false,
       "disabled": false,
       "default_branch": "develop",
@@ -56,7 +56,7 @@
     "latestReleaseAt": "2026-10-02T06:57:04Z",
     "homepage": "https://teable.ai",
     "sync": {
-      "syncedAt": "2026-10-07T02:30:24.992Z",
+      "syncedAt": "2026-10-10T15:25:44.879Z",
       "source": "api"
     }
   },
